@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "561980260253",
+    "project_id": "pr-20-1",
+    "storage_bucket": "pr-20-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561980260253:android:fc0e6fbb663ad17b2b7974",
+        "android_client_info": {
+          "package_name": "com.example.pr_20_firebase_boboev_pr_22102"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsHVJAJ7UAm6J-5Dr8hPEwVzIUobEF0Z0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
